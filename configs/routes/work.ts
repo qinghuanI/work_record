@@ -1,7 +1,10 @@
 export const workRoutes = [
   {
     text: "2023-10",
-    items: [{ text: "2023-10-10", link: "/2023/10/2023-10-10.html" }],
+    items: [
+      { text: "2023-10-16", link: "/2023/10/2023-10-16.html" },
+      { text: "2023-10-10", link: "/2023/10/2023-10-10.html" },
+    ],
   },
   {
     text: "2023-09",
