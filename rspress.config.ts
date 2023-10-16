@@ -1,19 +1,22 @@
+import { baseThemeConfig } from "./configs/baseThemeConfig";
 import * as path from "path";
 import { defineConfig } from "rspress/config";
 
 import { iconUrl } from "./configs/constants";
 import { sidebar } from "./configs/sidebar";
+import { nav } from "./configs/nav";
 
 export default defineConfig({
   root: path.join(__dirname, "docs"),
   title: "工作记录",
-  description: "Rspack-based Static Site Generator",
+  description: "一个简单的工作记录网站",
   icon: iconUrl,
   // logo: {
   //   light: "/rspress-light-logo.png",
   //   dark: "/rspress-dark-logo.png",
   // },
   themeConfig: {
+    ...baseThemeConfig,
     socialLinks: [
       {
         icon: "github",
@@ -22,19 +25,6 @@ export default defineConfig({
       },
     ],
     sidebar,
-    nav: [
-      {
-        text: "业务解决方案",
-        link: "/solutions/",
-      },
-      {
-        text: "闪念",
-        link: "/thoughts/",
-      },
-    ],
-    lastUpdated: true,
-    lastUpdatedText: "Last Updated",
-    prevPageText: "上一页",
-    nextPageText: "下一页",
+    nav,
   },
 });
