@@ -15,6 +15,7 @@ export const workRoutes = [
   },
   {
     text: "2023-09",
+    collapsed: true,
     items: [
       { text: "2023-09-11", link: "/2023/09/2023-09-11.html" },
       { text: "2023-09-02", link: "/2023/09/2023-09-02.html" },
