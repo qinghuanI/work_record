@@ -7,4 +7,8 @@ export const nav = [
     text: "闪念",
     link: "/thoughts/",
   },
+  {
+    text: "blog",
+    link: "https://blog-weigaoss.vercel.app/",
+  },
 ];
