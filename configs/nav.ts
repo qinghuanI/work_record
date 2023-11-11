@@ -4,6 +4,10 @@ export const nav = [
     link: "/solutions/",
   },
   {
+    text: "React 生态",
+    link: "/ecology/",
+  },
+  {
     text: "闪念",
     link: "/thoughts/",
   },
