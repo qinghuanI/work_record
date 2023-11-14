@@ -12,7 +12,24 @@
 
 - [zustand](https://zustand-demo.pmnd.rs/) - 一种小型、快速且可扩展的状态管理解决方案
 
-## 工具库
+## 拖拽和拖放
+
+- [react-sortable-hoc](https://clauderic.github.io/react-sortable-hoc/#/basic-configuration/basic-usage?_k=bbw1p5) - 一个拖拽和拖放的 React 库
+
+## 表单
+
+- [react-hook-form](https://react-hook-form.com/) - 一个简单、灵活且可扩展的表单验证库
+
+## CSS in JS
+
+- [styled-components](https://styled-components.com/) - 一个 CSS in JS 库
+- [jss](https://cssinjs.org/?v=v10.10.0) - 一个 CSS in JS 库
+
+## 国际化
+
+- [react-i18next](https://react.i18next.com/) - 国际化解决方案
+
+## 数据处理
 
 - [lodash](https://www.lodashjs.com/) 是一个一致性、模块化、高性能的 JavaScript 实用工具库
 
@@ -35,3 +52,7 @@
 ## 网络请求库
 
 - [Axios](https://www.axios-http.cn/docs/intro) - 一个基于 promise 网络请求库，作用于 node.js 和浏览器中
+
+## 单元测试
+
+- [Jest](https://jestjs.io/) - 一个令人愉快的 JavaScript 测试框架
