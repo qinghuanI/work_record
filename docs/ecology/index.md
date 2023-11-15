@@ -11,6 +11,7 @@
 ## 状态管理
 
 - [zustand](https://zustand-demo.pmnd.rs/) - 一种小型、快速且可扩展的状态管理解决方案
+- [Redux](https://cn.redux.js.org/) - JS 应用的状态容器，提供可预测化的状态管理
 
 ## 拖拽和拖放
 
