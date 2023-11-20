@@ -3,6 +3,8 @@
 ## UI 组件库
 
 - [Ant Design](https://ant.design/index-cn) - 一套企业级 UI 设计语言和 React 组件库
+- [React Bootstrap](https://react-bootstrap.github.io/docs/components/accordion) - 一个基于 Bootstrap 的 React UI 库
+- [chakra](https://chakra-ui.com/getting-started) - 一个简单、模块化和可访问的 UI 组件库
 
 ## 前端路由
 
@@ -12,6 +14,7 @@
 
 - [zustand](https://zustand-demo.pmnd.rs/) - 一种小型、快速且可扩展的状态管理解决方案
 - [Redux](https://cn.redux.js.org/) - JS 应用的状态容器，提供可预测化的状态管理
+- [MobX](https://mobx.js.org/README.html) - 简单、可扩展的状态管理
 
 ## 拖拽和拖放
 
@@ -41,6 +44,7 @@
 ## 时间库
 
 - [Day.js](https://dayjs.gitee.io/zh-CN/) - Moment.js 的 2kB 轻量化方案，拥有同样强大的 AP
+- [date-fns](https://date-fns.org/) - 一个轻量级的 JavaScript 日期库
 
 ## 数据请求状态管理库
 
