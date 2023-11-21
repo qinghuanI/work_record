@@ -1,13 +1,6 @@
 # 在线工具
 
-### 画图工具
-
-- [handraw](https://handraw.top/)
-
-### 文档
-
-- [石墨文档](https://shimo.im/recent)
-
-### 图片压缩
-
-- [tinypng](https://tinypng.com/)
+- **[Excalidra](https://handraw.top/)** - 在线画图工具
+- **[TinyPNG](https://tinypng.com/)** - 在线图片压缩工具
+- **[石墨文档](https://shimo.im/)** - 全新一代云 Office 办公软件，支持多人在线文档协同办公，实现多终端、跨地域、随时随地在线办公，涵盖在线文档、在线表格、应用表格等 8 大办公套件即写即存统一
+- **[Slidev](https://cn.sli.dev/)** - 为开发者提供灵活性和交互性，通过使用他们已经熟悉的工具和技术，使他们的演示文稿更加有趣、更具表现力和吸引力

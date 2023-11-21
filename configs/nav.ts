@@ -7,12 +7,8 @@ export const nav = [
         link: "/tools/",
       },
       {
-        text: "在线编辑器",
-        link: "/editors/",
-      },
-      {
         text: "在线服务",
-        link: "/services/",
+        link: "/online-services/",
       },
     ],
   },
