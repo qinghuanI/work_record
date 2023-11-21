@@ -1,7 +1,30 @@
 export const nav = [
   {
-    text: "业务解决方案",
-    link: "/solutions/",
+    text: "工具",
+    items: [
+      {
+        text: "在线工具",
+        link: "/tools/",
+      },
+      {
+        text: "在线编辑器",
+        link: "/editors/",
+      },
+      {
+        text: "在线服务",
+        link: "/services/",
+      },
+    ],
+  },
+  {
+    text: "解决方案",
+    items: [
+      {
+        text: "常见业务场景",
+        link: "/solutions/",
+      },
+      { text: "JavaScript 设计模式", link: "/design-patterns/" },
+    ],
   },
   {
     text: "React 生态",
