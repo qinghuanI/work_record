@@ -4,7 +4,7 @@
 
 - [Ant Design](https://ant.design/index-cn) - 一套企业级 UI 设计语言和 React 组件库
 - [React Bootstrap](https://react-bootstrap.github.io/docs/components/accordion) - 一个基于 Bootstrap 的 React UI 库
-- [chakra](https://chakra-ui.com/getting-started) - 一个简单、模块化和可访问的 UI 组件库
+- [Chakra](https://chakra-ui.com/getting-started) - 一个简单、模块化和可访问的 UI 组件库
 
 ## 前端路由
 
@@ -61,3 +61,9 @@
 ## 单元测试
 
 - [Jest](https://jestjs.io/) - 一个令人愉快的 JavaScript 测试框架
+- [Vitest](https://cn.vitest.dev/) - 由 Vite 提供支持的极速单元测试框架
+
+## 动画
+
+- [Framer Motion](https://www.framer.com/motion/) - 用于 React 的生产就绪运动库
+- [auto-animate](https://auto-animate.formkit.com/) - AutoAnimate 是一个零配置的嵌入式动画实用程序，可为您的 Web 应用程序添加平滑的过渡。您可以将它与 React、Solid、Vue、Svelte 或任何其他 JavaScript 应用程序一起使用
