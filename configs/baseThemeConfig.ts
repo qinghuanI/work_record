@@ -3,4 +3,5 @@ export const baseThemeConfig = {
   lastUpdatedText: "Last Updated",
   prevPageText: "上一页",
   nextPageText: "下一页",
+  enableContentAnimation: true,
 };

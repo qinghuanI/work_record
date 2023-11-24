@@ -1,7 +1,12 @@
 {
-  "name": "rspress-doc-template",
-  "version": "1.0.0",
+  "name": "work_record",
+  "description": "记录工作期间的工作总结、解决方案和闪念",
+  "version": "0.0.1",
   "private": true,
+  "author": {
+    "name": "qinghuani",
+    "email": "1062217965@qq.com"
+  },
   "scripts": {
     "dev": "rspress dev",
     "build": "rspress build",
