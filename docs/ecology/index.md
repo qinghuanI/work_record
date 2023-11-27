@@ -33,13 +33,19 @@
 
 - [react-i18next](https://react.i18next.com/) - 国际化解决方案
 
+## 发布订阅
+
+- [mitt](https://www.npmjs.com/package/mitt) - 微型的发布订阅工具
+
 ## 数据处理
 
 - [lodash](https://www.lodashjs.com/) 是一个一致性、模块化、高性能的 JavaScript 实用工具库
+- [nanoid](https://zelark.github.io/nano-id-cc/) - 一个用于生成随机 ID 的库
 
 ## 工具 hooks
 
 - [usehooks-ts](https://usehooks-ts.com/) 是一个没有任何依赖项、便于使用支持 TypeScript 的 hooks 库
+- [ahooks](https://ahooks.js.org/zh-CN/) - 一套高质量可靠的 React Hooks 库
 
 ## 时间库
 
@@ -58,7 +64,7 @@
 
 - [Axios](https://www.axios-http.cn/docs/intro) - 一个基于 promise 网络请求库，作用于 node.js 和浏览器中
 
-## 单元测试
+## 测试
 
 - [Jest](https://jestjs.io/) - 一个令人愉快的 JavaScript 测试框架
 - [Vitest](https://cn.vitest.dev/) - 由 Vite 提供支持的极速单元测试框架
@@ -67,3 +73,8 @@
 
 - [Framer Motion](https://www.framer.com/motion/) - 用于 React 的生产就绪运动库
 - [auto-animate](https://auto-animate.formkit.com/) - AutoAnimate 是一个零配置的嵌入式动画实用程序，可为您的 Web 应用程序添加平滑的过渡。您可以将它与 React、Solid、Vue、Svelte 或任何其他 JavaScript 应用程序一起使用
+
+## SSG
+
+- [VitePress](https://vitepress.dev/guide/what-is-vitepress) - VitePress 是一款静态站点生成器(SSG)，专为构建快速、以内容为中心的网站而设计
+- [Rspress](https://rspress.dev/) - 基于 Rspack 的静态站点生成器
