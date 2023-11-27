@@ -6,6 +6,10 @@ export const designPatterns = [
         text: "策略模式",
         link: "/design-patterns/strategy",
       },
+      {
+        text: "发布订阅模式",
+        link: "/design-patterns/pub-sub",
+      },
     ],
   },
   {
@@ -15,6 +19,10 @@ export const designPatterns = [
         text: "工厂模式",
         link: "/design-patterns/factory",
       },
+      {
+        text: "单例模式",
+        link: "/design-patterns/single-instance",
+      },
     ],
   },
   {
@@ -23,6 +31,10 @@ export const designPatterns = [
       {
         text: "外观模式",
         link: "/design-patterns/facade",
+      },
+      {
+        text: "代理模式",
+        link: "/design-patterns/proxy",
       },
     ],
   },
