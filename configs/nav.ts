@@ -13,25 +13,25 @@ export const nav = [
     ],
   },
   {
-    text: "解决方案",
-    items: [
-      {
-        text: "常见业务场景",
-        link: "/solutions/",
-      },
-      { text: "JavaScript 设计模式", link: "/design-patterns/" },
-    ],
+    text: "常见业务场景",
+    link: "/solutions/",
   },
+  { text: "设计模式", link: "/design-patterns/" },
   {
     text: "React 生态",
     link: "/ecology/",
   },
   {
-    text: "闪念",
-    link: "/thoughts/",
-  },
-  {
-    text: "blog",
-    link: "https://blog-weigaoss.vercel.app/",
+    text: "其它",
+    items: [
+      {
+        text: "闪念",
+        link: "/thoughts/",
+      },
+      {
+        text: "blog",
+        link: "https://blog-weigaoss.vercel.app/",
+      },
+    ],
   },
 ];
