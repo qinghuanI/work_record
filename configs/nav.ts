@@ -3,7 +3,7 @@ export const nav = [
     text: "工具",
     items: [
       {
-        text: "在线工具",
+        text: "必备工具",
         link: "/tools/",
       },
       {
@@ -14,7 +14,13 @@ export const nav = [
   },
   {
     text: "常见业务场景",
-    link: "/solutions/",
+    items: [
+      { text: "场景解决方案", link: "/solutions/" },
+      {
+        text: "代码块",
+        link: "/code-block/",
+      },
+    ],
   },
   { text: "设计模式", link: "/design-patterns/" },
   {
