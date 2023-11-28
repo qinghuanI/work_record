@@ -11,10 +11,6 @@ export default defineConfig({
   title: "工作记录",
   description: "一个简单的工作记录网站",
   icon: iconUrl,
-  // logo: {
-  //   light: "/rspress-light-logo.png",
-  //   dark: "/rspress-dark-logo.png",
-  // },
   themeConfig: {
     ...baseThemeConfig,
     socialLinks: [
