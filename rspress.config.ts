@@ -1,10 +1,8 @@
-import { baseThemeConfig } from "./configs/baseThemeConfig";
 import * as path from "path";
 import { defineConfig } from "rspress/config";
 
 import { iconUrl } from "./configs/constants";
-import { sidebar } from "./configs/sidebar";
-import { nav } from "./configs/nav";
+import { nav, sidebar, baseThemeConfig } from "./configs";
 
 export default defineConfig({
   root: path.join(__dirname, "docs"),
