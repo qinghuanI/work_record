@@ -13,10 +13,10 @@
     "preview": "rspress preview"
   },
   "dependencies": {
-    "rspress": "^1.7.5"
+    "rspress": "^0.1.1"
   },
   "devDependencies": {
-    "@types/node": "^20",
+    "@types/node": "^14",
     "prettier": "^3.0.3"
   }
 }
