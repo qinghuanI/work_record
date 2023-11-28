@@ -7,3 +7,4 @@
 - **[mockAPI](https://mockapi.io/projects)** - 一个免费的 API 服务，可以用来模拟后端 API
 - **[GitHub](https://github.com/)** - 一个在线软件源代码托管服务平台
 - **[Vercel](https://vercel.com/)** - 最好用的网站托管服务
+- **[bundlephobia](https://bundlephobia.com/)** - 分析 npm 包添加到捆绑包中的成本
