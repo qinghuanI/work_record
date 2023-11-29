@@ -1,3 +1,7 @@
+# 工作软件
+
+- **[Zoom](https://zoom.us/)** - 一款多人手机云视频会议软件，为用户提供兼备高清视频会议与移动网络会议功能的免费云视频通话服务。用户可通过手机、平板电脑、PC 与工作伙伴进行多人视频及语音通话
+
 # 前端必备工具
 
 - **[WebStorm](https://handraw.top/)** - 一款由 JetBrains 打造的 JavaScript 开发工具，支持 HTML、CSS、Node.js、Angular、React 和 Vue.js 开发
