@@ -19,6 +19,7 @@
 ## 拖拽和拖放
 
 - [react-sortable-hoc](https://clauderic.github.io/react-sortable-hoc/#/basic-configuration/basic-usage?_k=bbw1p5) - 一个拖拽和拖放的 React 库
+- [dnd kit](https://docs.dndkit.com/) - 用于 React 的轻量级、模块化、高性能、可访问且可扩展的拖放工具包
 
 ## 表单
 
@@ -83,3 +84,8 @@
 
 - [VitePress](https://vitepress.dev/guide/what-is-vitepress) - VitePress 是一款静态站点生成器(SSG)，专为构建快速、以内容为中心的网站而设计
 - [Rspress](https://rspress.dev/) - 基于 Rspack 的静态站点生成器
+
+## 组件库文档
+
+- [Storybook](https://storybook.js.org/) - 一个 ui 组件开发管理的工具
+- [docz](https://www.docz.site/docs/getting-started) - 一套与 Storybook 相比更简约的组件库文档实现方案
