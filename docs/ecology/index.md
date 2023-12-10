@@ -19,25 +19,23 @@
 ## 拖拽和拖放
 
 - [react-sortable-hoc](https://clauderic.github.io/react-sortable-hoc/#/basic-configuration/basic-usage?_k=bbw1p5) - 一个拖拽和拖放的 React 库
-- [dnd kit](https://docs.dndkit.com/) - 用于 React 的轻量级、模块化、高性能、可访问且可扩展的拖放工具包
+- [dnd-kit](https://docs.dndkit.com/) - 用于 React 的轻量级、模块化、高性能、可访问且可扩展的拖放工具包
 
 ## 表单
 
 - [react-hook-form](https://react-hook-form.com/) - 一个简单、灵活且可扩展的表单验证库
 
-## CSS in JS
+## CSS
 
 - [styled-components](https://styled-components.com/) - 一个 CSS in JS 库
 - [jss](https://cssinjs.org/?v=v10.10.0) - 一个 CSS in JS 库
-
-## Css 类名处理
-
-- [clsx](https://github.com/lukeed/clsx) - 一个用于处理 css 类名的库
+- [clsx](https://github.com/lukeed/clsx) - 一个用于处理 css 类名的库，比 classnames 更轻量化
 - [classnames](https://github.com/JedWatson/classnames) - 一个用于处理 css 类名的库
 
 ## 国际化
 
-- [react-i18next](https://react.i18next.com/) - 国际化解决方案
+- [i18next](https://www.i18next.com/) - 通用的国际化解决方案
+- [react-i18next](https://react.i18next.com/) - 是 i18next 的 React 插件
 
 ## 发布订阅
 
@@ -72,7 +70,7 @@
 
 ## 测试
 
-- [Jest](https://jestjs.io/) - 一个令人愉快的 JavaScript 测试框架
+- [Jest](https://jestjs.io/) - 一个令人愉快的 JavaScript 单元测试框架
 - [Vitest](https://cn.vitest.dev/) - 由 Vite 提供支持的极速单元测试框架
 
 ## 动画
