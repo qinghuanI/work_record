@@ -39,12 +39,14 @@
 
 ## 发布订阅
 
-- [mitt](https://www.npmjs.com/package/mitt) - 微型的发布订阅工具
+- [mitt](https://www.npmjs.com/package/mitt) - 轻量级的发布订阅工具
 
 ## 数据处理
 
 - [lodash](https://www.lodashjs.com/) 是一个一致性、模块化、高性能的 JavaScript 实用工具库
-- [nanoid](https://zelark.github.io/nano-id-cc/) - 一个用于生成随机 ID 的库
+- [nanoid](https://zelark.github.io/nano-id-cc/) - 一个用于生成随机 `ID` 的库
+- [lodash.pick](https://www.npmjs.com/package/lodash.pick) - 从 `object` 中选中的属性的对象
+- [lodash.omit](https://www.npmjs.com/package/lodash.omit) - 反向版 `_.pick`; 这个方法一个对象，这个对象由忽略属性之外的 `object` 自身和继承的可枚举属性组成
 
 ## 工具 hooks
 
@@ -66,7 +68,7 @@
 
 ## 网络请求库
 
-- [Axios](https://www.axios-http.cn/docs/intro) - 一个基于 promise 网络请求库，作用于 node.js 和浏览器中
+- [Axios](https://www.axios-http.cn/docs/intro) - 一个基于 `Promise` 网络请求库，作用于 node.js 和浏览器中
 
 ## 测试
 
