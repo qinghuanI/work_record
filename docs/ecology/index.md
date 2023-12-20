@@ -52,6 +52,7 @@
 
 - [usehooks-ts](https://usehooks-ts.com/) 是一个没有任何依赖项、便于使用支持 TypeScript 的 hooks 库
 - [ahooks](https://ahooks.js.org/zh-CN/) - 一套高质量可靠的 React Hooks 库
+- [react-use](https://streamich.github.io/react-use/?path=/story/components-usekey--demo) - 一个 React Hooks 库
 
 ## 时间库
 
@@ -89,3 +90,8 @@
 
 - [Storybook](https://storybook.js.org/) - 一个 ui 组件开发管理的工具
 - [docz](https://www.docz.site/docs/getting-started) - 一套与 Storybook 相比更简约的组件库文档实现方案
+
+## 其他
+
+- [OverlayScrollbars](https://kingsora.github.io/OverlayScrollbars/#!overview) - 一个自定义滚动条的库
+- [simplebar-react](https://grsmto.github.io/simplebar/) - 一个自定义滚动条的库
