@@ -75,6 +75,8 @@
 
 - [Jest](https://jestjs.io/) - 一个令人愉快的 JavaScript 单元测试框架
 - [Vitest](https://cn.vitest.dev/) - 由 Vite 提供支持的极速单元测试框架
+- [@testing-library/jest-dom]()
+- [@testing-library/react]()
 
 ## 动画
 
@@ -91,7 +93,13 @@
 - [Storybook](https://storybook.js.org/) - 一个 ui 组件开发管理的工具
 - [docz](https://www.docz.site/docs/getting-started) - 一套与 Storybook 相比更简约的组件库文档实现方案
 
+## Lint
+
+- [ESLint](https://eslint.org/) - 静态分析您的代码以快速发现问题
+- [Prettier](https://prettier.io/docs/en/) - 一个固执己见的代码格式化工具
+
 ## 其他
 
 - [OverlayScrollbars](https://kingsora.github.io/OverlayScrollbars/#!overview) - 一个自定义滚动条的库
 - [simplebar-react](https://grsmto.github.io/simplebar/) - 一个自定义滚动条的库
+- [linkifyjs](https://linkify.js.org/) - 使用 Linkify 查找纯文本链接并将其转换为 HTML <a> 标记。它会自动突出显示 URL、#hashtags、@mentions 等
