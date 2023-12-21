@@ -17,7 +17,7 @@ export const nav = [
     items: [
       { text: "场景解决方案", link: "/solutions/" },
       {
-        text: "代码块",
+        text: "逻辑库",
         link: "/code-block/",
       },
     ],
