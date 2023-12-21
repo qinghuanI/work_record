@@ -15,4 +15,8 @@ export const codeBlock = [
     text: "一些业务hooks",
     link: "/code-block/一些业务hooks",
   },
+  {
+    text: "虚拟滚动条",
+    link: "/code-block/虚拟滚动条",
+  },
 ];
