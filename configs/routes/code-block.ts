@@ -4,8 +4,8 @@ export const codeBlock = [
     link: "/code-block/发布订阅",
   },
   {
-    text: "时间格式化",
-    link: "/code-block/时间格式化",
+    text: "日期格式化",
+    link: "/code-block/日期格式化",
   },
   {
     text: "常用的数据处理方法",

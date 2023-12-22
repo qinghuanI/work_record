@@ -13,7 +13,7 @@ export const nav = [
     ],
   },
   {
-    text: "常见业务场景",
+    text: "业务场景",
     items: [
       { text: "场景解决方案", link: "/solutions/" },
       {
