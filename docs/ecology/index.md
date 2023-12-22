@@ -79,20 +79,10 @@
 - [@testing-library/jest-dom]()
 - [@testing-library/react]()
 
-## SSG
-
-- [VitePress](https://vitepress.dev/guide/what-is-vitepress) - VitePress 是一款静态站点生成器(SSG)，专为构建快速、以内容为中心的网站而设计
-- [Rspress](https://rspress.dev/) - 基于 Rspack 的静态站点生成器
-
 ## 组件库文档
 
 - [Storybook](https://storybook.js.org/) - 一个 ui 组件开发管理的工具
 - [docz](https://www.docz.site/docs/getting-started) - 一套与 Storybook 相比更简约的组件库文档实现方案
-
-## Lint
-
-- [ESLint](https://eslint.org/) - 静态分析您的代码以快速发现问题
-- [Prettier](https://prettier.io/docs/en/) - 一个固执己见的代码格式化工具
 
 ## 其他
 

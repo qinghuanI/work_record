@@ -24,8 +24,17 @@ export const nav = [
   },
   { text: "设计模式", link: "/design-patterns/" },
   {
-    text: "React 生态",
-    link: "/ecology/",
+    text: "前端技术体系",
+    items: [
+      {
+        text: "前端工程化",
+        link: "/engineering/",
+      },
+      {
+        text: "React 生态",
+        link: "/ecology/",
+      },
+    ],
   },
   {
     text: "其它",
