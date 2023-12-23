@@ -79,6 +79,11 @@
 - [@testing-library/jest-dom]()
 - [@testing-library/react]()
 
+## SSG
+
+- [VitePress](https://vitepress.dev/guide/what-is-vitepress) - VitePress 是一款静态站点生成器(SSG)，专为构建快速、以内容为中心的网站而设计
+- [Rspress](https://rspress.dev/) - 基于 Rspack 的静态站点生成器
+
 ## 组件库文档
 
 - [Storybook](https://storybook.js.org/) - 一个 ui 组件开发管理的工具
