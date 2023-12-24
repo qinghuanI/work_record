@@ -34,6 +34,14 @@ export const nav = [
         text: "React 生态",
         link: "/ecology/",
       },
+      {
+        text: "渲染模式",
+        link: "/render-type/",
+      },
+      {
+        text: "UI库与框架",
+        link: "framework",
+      },
     ],
   },
   {
