@@ -18,6 +18,10 @@ export const designPatterns = [
         text: "中介者模式",
         link: "/design-patterns/mediator",
       },
+      {
+        text: "状态模式",
+        link: "/design-patterns/state",
+      },
     ],
   },
   {
