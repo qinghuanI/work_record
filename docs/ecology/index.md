@@ -63,10 +63,12 @@
 ## 数据请求状态管理库
 
 - [SWR](https://swr.vercel.app/zh-CN) - 用于数据请求的 React Hooks 库
+- [query](https://tanstack.com/query/latest) - 适用于 TS/JS、React、Solid、Vue 和 Svelte 的强大异步状态管理
 
 ## GraphQL
 
 - [urql](https://formidable.com/open-source/urql/docs/) - 一个简单的、轻量的 graphql client
+- [Apollo Client](https://www.apollographql.com/docs/react/) - GraphQL 的 JavaScript 客户端
 
 ## 网络请求库
 
