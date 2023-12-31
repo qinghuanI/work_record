@@ -39,6 +39,7 @@
 - [clsx](https://github.com/lukeed/clsx) - 一个用于处理 css 类名的库，比 classnames 更轻量化
 - [classnames](https://github.com/JedWatson/classnames) - 一个用于处理 css 类名的库
 - [scss/sass](https://sass-lang.com/) - 世界上最成熟、稳定和强大的 CSS 扩展语言
+- [Tailwind CSS](https://tailwindcss.com/) - 只需书写 HTML 代码，无需书写 CSS，即可快速构建美观的网站
 
 ## 国际化
 
