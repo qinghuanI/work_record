@@ -4,7 +4,8 @@
 
 - [Ant Design](https://ant.design/index-cn) - 一套企业级 UI 设计语言和 React 组件库
 - [React Bootstrap](https://react-bootstrap.github.io/docs/components/accordion) - 一个基于 Bootstrap 的 React UI 库
-- [Chakra](https://chakra-ui.com/getting-started) - 一个简单、模块化和可访问的 UI 组件库
+- [Chakra UI](https://chakra-ui.com/getting-started) - 一个简单、模块化和可访问的 UI 组件库
+- [Shadcn UI](https://ui.shadcn.com/docs/components/accordion) - Radix UI - 是一个无头 UI 库。也就是说，它有组件 API，但没有样式。Shadcn UI 建立在 Tailwind CSS 和 Radix UI 之上，目前支持 Next.js、Gatsby、Remix、Astro、Laravel 和 Vite，并且拥有与其他项目快速集成的能力
 
 ## 前端路由
 
