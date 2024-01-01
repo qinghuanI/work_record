@@ -13,7 +13,7 @@
     "preview": "rspress preview"
   },
   "dependencies": {
-    "rspress": "^0.1.1"
+    "rspress": "^1.9.1"
   },
   "devDependencies": {
     "@types/node": "^14",
